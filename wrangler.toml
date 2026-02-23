@@ -1,4 +1,4 @@
-name = "nim-chat-proxy"
+name = "ga"
 main = "index.js"
 compatibility_date = "2024-02-22"
 
