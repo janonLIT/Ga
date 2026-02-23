@@ -1,0 +1,7 @@
+name = "nim-chat-proxy"
+main = "index.js"
+compatibility_date = "2024-02-22"
+
+[vars]
+SHOW_REASONING = "true"
+NIM_BASE_URL = "https://integrate.api.nvidia.com/v1"
